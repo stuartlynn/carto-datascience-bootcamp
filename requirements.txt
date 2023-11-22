@@ -49,8 +49,8 @@ geopandas
 pandas 
 shapley
 osmnx
-rioxarray
-xarray
+#rioxarray
+#xarray
 datashader
 contextily
 matplotlib
