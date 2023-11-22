@@ -48,3 +48,13 @@ bqplot
 geopandas 
 pandas 
 shapley
+osmnx
+rioxarray
+xarray
+datashader
+contextily
+matplotlib
+seaborn
+numpy
+pysal
+splot
